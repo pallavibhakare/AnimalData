@@ -1,0 +1,26 @@
+/* put your css code here */
+.animal-thumbnail img{max-width: 380px;border: 5px solid #511c39;
+    background: #f2dede;
+    padding: 7px;
+    margin-right: 10px;
+    height: 350px;}
+.reptile-thumbnail img ,.mammle-thumbnail img,.bird-thumbnail img,.all-thumbnail img {
+    max-width: 280px;
+    height: 285px;
+    border: 5px solid #511c39;
+    background: #f2dede;
+    padding: 7px;
+    margin-right: 10px;
+}
+div#content {
+    margin-top: 20px;
+    padding-left: 0px;
+}
+.caption h4 {
+    color: #b12e74;
+    font-weight: 700;
+}
+.nav-tabs>li.active>a:hover {
+    background-color: #eeeeee;
+}
+.category-name{padding-left:15px;}
