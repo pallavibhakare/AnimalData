@@ -5,3 +5,4 @@
  1. HTML file that imports the libraries, JavaScript and css files. It contains the structures of page, including template design to display the date. 
  2. JavaScript libraries such as jquery, handlebars. JavaScript file assignment.js maps the data onto the templates and provides interactivity.
  3. CSS library such as bootstrap. Bootstrap styles the web site and file assignment.css styles templates elements .
+ #Demo : https://pallavibhakare.github.io/AnimalData/
